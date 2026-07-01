@@ -8,7 +8,7 @@ This document presents the ExELang Legacy Ecosystem: the tools and agreements we
 
 The ecosystem has three parts, shown below: the **ExELang Consortium**, **ELSI**, and the **EL1000 Consortium**.
 
-*[Figure — ExELang Ecosystem diagram]*
+![ExELang Ecosystem diagram](images/exelang_ecosystem.png)
 
 ---
 
