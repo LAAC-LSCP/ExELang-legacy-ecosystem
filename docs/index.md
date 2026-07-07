@@ -6,7 +6,8 @@ For four years, the ExELang project has worked to advance how we study language 
 
 This document presents the ExELang Legacy Ecosystem: the tools and agreements we've put in place so that the research community can keep benefiting from this work — today and in the years to come.
 
-The ecosystem has three parts, shown below: the **ExELang Consortium**, **ELSI**, and the **EL1000 Consortium**.
+The ecosystem has three parts, shown below: the **ExELang Consortium**, **ELSI**, and the **EL1000 Consortium**. If you are an ExELang collaborator, you have already been provided with information regarding how to join one or more of these. Outside researchers will not be able to join because the ExELang team doesn’t have the resources to onboard new people. However, we are not the future decision-makers: our collaborators are. In the future, if they find new resources, they may be able to open one or more of these to external researchers.
+
 
 ![ExELang Ecosystem diagram](images/exelang_ecosystem.png)
 
